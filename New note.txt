@@ -1,0 +1,12 @@
+title New note
+
+note left of Browser: User inputs data and submit action
+Browser->Server: HTTP POST data submitted
+note right of Server: Server recive data and send data
+Server->Browser: Server confirms successful data transfer
+note left of Browser: Browser refresh site
+
+Browser->Server: HTTP GET all required files
+Server->Browser: send all required files
+note left of Browser: User sees his message on the site
+

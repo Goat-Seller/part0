@@ -1,0 +1,7 @@
+title New note -SPA
+
+
+Browser->Browser: Javascript catches input data
+Browser->Server: HTTP POST new_note_spa (json data)
+Server->Browser: json data 
+note left of Browser: javascript diplays new note

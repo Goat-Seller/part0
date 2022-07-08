@@ -1,0 +1,11 @@
+title Going to SPA
+
+Browser->Server: HTTP GET spa
+Server->Browser: spa
+note left of Browser: 
+Browser executes spa file 
+and load all site filles 
+and notes 
+end note
+
+
